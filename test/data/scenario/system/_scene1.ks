@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/image35-4.webp"  ]
+[preload  storage="./data/bgimage/haikei_jet.jpg"  ]
+[preload  storage="./data/bgimage/haikei_jet_dark.jpg"  ]
+[preload  storage="./data/bgimage/BadEnd.jpg"  ]
+[return]
